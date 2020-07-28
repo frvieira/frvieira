@@ -58,11 +58,12 @@
 
 ### 📌 Projects
 
-| REEFOOD APP   July 2020                 |
-|-----------------------------------------|
-| Description                             |
-| Tecnologies                             |
-|JavaScript, React, HTML, CSS, Firebase   |
+| REEFOOD APP                                                                     |
+|---------------------------------------------------------------------------------|
+| July 2020|
+| Description                                                                     |
+| Tecnologies | JavaScript, React, HTML, CSS, Firebase                            |
+
 
 
 ---
