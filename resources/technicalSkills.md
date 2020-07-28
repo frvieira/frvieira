@@ -2,11 +2,11 @@
   <h1 align="center">  Technology Stack Details 👋</h1>
 </p>
 
-### 📚 My Tech Stack
+### 📚 My Tech Stack 
 
-Level 1: Academic or self-tought - small projects
-Level 2: Professional Experience
-Level 3: Expert
+- Level  1️⃣ : Academic or self-tought - small projects
+- Level  2️⃣: Professional Experience
+- Level  3️⃣: Expert
 
 #### Backend
 
@@ -56,14 +56,12 @@ Level 3: Expert
 | MAC OS     | 1     | 7 months |         |
 
 
-### Projects
+### 📌 Projects
 
-|  ##### REEFOOD APP                      |
-
+| REEFOOD APP   July 2020                 |
+|-----------------------------------------|
 | Description                             |
-
 | Tecnologies                             |
-
 |JavaScript, React, HTML, CSS, Firebase   |
 
 
