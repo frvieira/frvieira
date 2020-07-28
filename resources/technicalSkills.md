@@ -60,7 +60,7 @@
 
 | REEFOOD APP               |                                                     |
 |---------------------------|-----------------------------------------------------|
-| July 2020 |                                                                     |
+| Date |   July 2020                                                              |
 | Description |                                                                   |
 | Tecnologies | JavaScript, React, HTML, CSS, Firebase                            |
 
