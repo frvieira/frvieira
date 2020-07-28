@@ -2,7 +2,7 @@
   <h1 align="center">  Technology Stack Details 👋</h1>
 </p>
 
-### 📚 My Tech Stack 
+## 📚 My Tech Stack 
 
 - Level  1️⃣ : Academic or self-tought - small projects
 - Level  2️⃣: Professional Experience
@@ -68,13 +68,11 @@
 
 #### HACKATHON Project - AreYouShore
 
-| AreYouShore | |
+| AreYouShore  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/frvieira/hackathon)](https://github.com/frvieira/hackathon) | |
 |---------------------------|-----------------------------------------------------|
 | Date |   April 2020                                                             |
 | Description |   This project was developed on 48h and after 3 months of learning Java, during the bootcamp of Academia de Codigo held on ISCTE (remotely). AREYOUSHORE is an webapp that allows the user to check if a beach is too crowded  and doesn't enable people to preserve the social distancing required for the current situation  (COVID19 Pandemic). It tracks the amount of people that are at a beach at that time.The data is updated by the Lifeguard and the User (to be implemented). |
 | Tecnologies | Java, Spring REST, Spring MVC, IntelliJ, Maven, Hibernate, Spring, HTML, CSS, Heroku.                           |
-
-Project: [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/frvieira/hackathon)](https://github.com/frvieira/hackathon)
 
 #### JAVABANK 
 
@@ -88,13 +86,11 @@ Project: [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-sq
 #### First project in Java - Game 
 
 
-| Cat's Cridle (Kadinsky's Inner Peace) | |
+| Cat's Cridle [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/umeshwar101010/TeamCarter)](https://github.com/umeshwar101010/TeamCarter) | |
 |---------------------------|-----------------------------------------------------|
-| Date |   February 2020|
+| Date                      |   February 2020|
 | Description |This game is build as a project work during bootcamp of Academia de Codigo held on ISCTE. We are supposed to compile the .jar file use the build.xml with ANT and run the jarfile option. The concepts we knew when we started this project were: Basic OOP principles, Methods, Constructors, Encapsulation, Enumerations, Composition, Delegation, Inheritance, Method Overriding and Overloading, Abstract Classes, Polymorphism, Interfaces, Containers.|
 | Tecnologies | Java, Ant, SimpleGraphics lib|
-
-Project: [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/umeshwar101010/TeamCarter)](https://github.com/umeshwar101010/TeamCarter)
 
 ---
 
