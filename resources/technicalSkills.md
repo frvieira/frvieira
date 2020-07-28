@@ -63,7 +63,7 @@
 | Reefood App | |
 |---------------------------|-----------------------------------------------------|
 | Date |   July 2020                                                              |
-| Description | Application to help Refoot Lisbon Portugal to manage meals that are delivered daily. Project made in Reactjs that is being done by several code academy students in <Academia de Código_ >                                                               |
+| Description | Application to help Refood Lisbon Portugal to manage meals that are delivered daily. Project made in Reactjs that is being done by several code academy students in <Academia de Código_ >                                                               |
 | Tecnologies | JavaScript, React.js, React Router, HTML, CSS, Firebase                            |
 
 #### HACKATHON Project - AreYouShore
