@@ -37,6 +37,7 @@ Level 3: Expert
 #### Database
 
 | Technology | Level | Time     | Version |
+|------------|-------|----------|---------|
 | MYSQL      | 1     | 6 months |         |
 | PostgreSQL | 1     | 2 months |         |
 | Firebase   | 1     | learning |         |
