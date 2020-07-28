@@ -16,11 +16,11 @@
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/java-logo.svg" alt="java" width="60" height="60"/>
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/mysql-logo.svg" alt="mysql" width="60" height="60"/>
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/html5-logo.svgg" alt="html5" width="60" height="60"/>
-<img src="https://github.com/frvieira/frvieira/blob/master/icons/css3-logo.svgg" alt="css3" width="60" height="60"/>
+<img src="https://github.com/frvieira/frvieira/blob/master/icons/css3-logo.svg" alt="css3" width="60" height="60"/>
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/javascript-logo.svg" alt="javascript" width="60" height="60"/>
-<img src="https://github.com/frvieira/frvieira/blob/master/icons/react-logo.svgg" alt="react" width="60" height="60"/>
-<img src="https://github.com/frvieira/frvieira/blob/master/icons/nodejs-logo.svgg" alt="nodejs" width="60" height="60"/>
-<img src="https://github.com/frvieira/frvieira/blob/master/icons/firebase-logo.svgg" alt="firebase" width="60" height="60"/>
+<img src="https://github.com/frvieira/frvieira/blob/master/icons/react-logo.svg" alt="react" width="60" height="60"/>
+<img src="https://github.com/frvieira/frvieira/blob/master/icons/nodejs-logo.svg" alt="nodejs" width="60" height="60"/>
+<img src="https://github.com/frvieira/frvieira/blob/master/icons/firebase-logo.svg" alt="firebase" width="60" height="60"/>
 </p>
 
 ##Statistics
