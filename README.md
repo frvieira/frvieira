@@ -11,7 +11,7 @@
 - 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fvieiradev@gmail.com)](mailto:fvieiradev@gmail.com) or Linkedin [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frfvieira/)](https://www.linkedin.com/in/frfvieira/)
 - ⚡ Fun fact about me, I'm quite lazy. I like to do things once and it's done;
 - 😄 You can download my CV [here](https://github.com/frvieira/frvieira/blob/master/resources/Francisco_Vieira_CV_eng.pdf "here").
-- 📄 Get my detailed Technical details [here]( https://github.com/frvieira/frvieira/blob/master/resources/technicalSkills.html "here") WIP
+- 📄 Get my detailed Technical details [here]( https://github.com/frvieira/frvieira/blob/master/resources/technicalSkills.md "here") WIP
 
 ### 📚 My Tech Stack known or learning
 
