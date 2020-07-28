@@ -15,7 +15,7 @@
 <p align="left">
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/java-logo.svg" alt="java" width="60" height="60"/>
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/mysql-logo.svg" alt="mysql" width="60" height="60"/>
-<img src="https://github.com/frvieira/frvieira/blob/master/icons/html5-logo.svgg" alt="html5" width="60" height="60"/>
+<img src="https://github.com/frvieira/frvieira/blob/master/icons/html5-logo.svg" alt="html5" width="60" height="60"/>
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/css3-logo.svg" alt="css3" width="60" height="60"/>
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/javascript-logo.svg" alt="javascript" width="60" height="60"/>
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/react-logo.svg" alt="react" width="60" height="60"/>
