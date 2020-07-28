@@ -60,6 +60,7 @@
 
 #### REEFOOD APP
 
+| Reefood App | |
 |---------------------------|-----------------------------------------------------|
 | Date |   July 2020                                                              |
 | Description |                                                                   |
@@ -67,6 +68,7 @@
 
 #### HACKATHON Project - AreYouShore
 
+| AreYouShore | |
 |---------------------------|-----------------------------------------------------|
 | Date |   April 2020                                                             |
 | Description |   This project was developed on 48h and after 3 months of learning Java, 
@@ -91,6 +93,8 @@ HTML, CSS, Heroku.                           |
 
 #### JAVABANK 
 
+
+| JavaBank | |
 |---------------------------|-----------------------------------------------------|
 | Date |   July 2020                                                              |
 | Description |JavaBank was a project done durring the bootcamp after we got
