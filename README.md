@@ -4,7 +4,7 @@
 </p>
 
 ### 🧐 About
-- 🔭 I’m currently working as a FreeLancer;
+- 🔭 I’m currently working as a Freelancer;
 - 🌱 I’m currently learning JavaScript and Reactjs 🤪;
 - ⚡ Doing projects in JavaScript and Reactjs;
 - 🤔 I’m looking for help find a job;
