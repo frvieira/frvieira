@@ -80,7 +80,7 @@
 | JavaBank | |
 |---------------------------|-----------------------------------------------------|
 | Date |   March 2020 - April 2020                                                             |
-| Description |JavaBank was a project done durring the bootcamp after we got introduced to the Java fundamentals. This application was built on 5/6 weeks, and simulates an enterprise application to the real world. This application that covers: User Interface, Client/Server Architecture, Relational Databases and Database Transactions.                                                                   |
+| Description |JavaBank was a project done during the bootcamp after we got introduced to the Java fundamentals. This application was built on 5/6 weeks, and simulates an enterprise application to the real world. This application that covers: User Interface, Client/Server Architecture, Relational Databases and Database Transactions.                                                                   |
 | Tecnologies | Java, IntelliJ, Mac OS, Maven, Hibernate, Java Persistence API, Spring, Spring REST, Spring MVC, Git, Tomcat, JUnit, Mockito, Prompt-View Library,MySQL, API Rest.                          |
 
 #### First project in Java - Game 
