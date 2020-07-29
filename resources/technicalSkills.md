@@ -58,9 +58,9 @@
 
 ### 📌 Projects
 
-#### REEFOOD APP
+#### REFOOD APP
 
-| Reefood App | |
+| Refood App | |
 |---------------------------|-----------------------------------------------------|
 | Date |   July 2020                                                              |
 | Description | Application to help Refood Lisbon Portugal to manage meals that are delivered daily. Project made in Reactjs that is being done by several code academy students in <Academia de Código_ >                                                               |
