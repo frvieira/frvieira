@@ -4,7 +4,7 @@
 
 ## 📚 My Tech Stack 
 
-- Level  1️⃣ : Academic or self-tought - small projects
+- Level  1️⃣ : Academic or self-taught - small projects
 - Level  2️⃣: Professional Experience
 - Level  3️⃣: Expert
 
