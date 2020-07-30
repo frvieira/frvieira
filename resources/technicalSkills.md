@@ -5,8 +5,8 @@
 ## 📚 My Tech Stack 
 
 - Level  1️⃣ : Academic or self-taught - small projects
-- Level  2️⃣: Professional Experience
-- Level  3️⃣: Expert
+- Level  2️⃣ : Professional experience less than 2 years
+- Level  3️⃣ : Professional experience more than 2 years 
 
 #### Backend
 
@@ -20,6 +20,7 @@
 | Junit      | 1     | 6 months |         |
 | REST API   | 1     | 6 months |         |
 | Tomcat     | 1     | 6 months |         |
+| Node.js    | 1     | 5 months |         |
 
 
 

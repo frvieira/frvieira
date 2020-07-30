@@ -18,6 +18,7 @@
 #### Backend
 <p align="left">
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/java-logo.svg" alt="java" width="60" height="60"/>
+<img src="https://github.com/frvieira/frvieira/blob/master/icons/nodejs-logo.svg" alt="nodejs" width="60" height="60"/>
 </p>
 
 #### Frontend
@@ -26,7 +27,6 @@
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/css3-logo.svg" alt="css3" width="60" height="60"/>
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/javascript-logo.svg" alt="javascript" width="60" height="60"/>
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/react-logo.svg" alt="react" width="60" height="60"/>
-<img src="https://github.com/frvieira/frvieira/blob/master/icons/nodejs-logo.svg" alt="nodejs" width="60" height="60"/>
 </p>
 
 #### Database
