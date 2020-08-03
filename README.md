@@ -42,7 +42,7 @@
 ### 🎯 Let's connect:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/frvieira)](https://github.com/frvieira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frvieira/)](https://www.linkedin.com/in/frfvieira/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nada.geral@gmail.com)](mailto:fvieiradev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fvieiradevl@gmail.com)](mailto:fvieiradev@gmail.com)
 
 ---
 
