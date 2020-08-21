@@ -61,7 +61,7 @@
 
 #### REFOOD APP
 
-| Refood App  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://www.youtube.com/watch?v=dQw4w9WgXcQ)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)| |
+| Refood App  | |
 |---------------------------|-----------------------------------------------------|
 | Date |   July 2020                                                              |
 | Description | Application to help Refood Lisbon Portugal to manage meals that are delivered daily. Project made in Reactjs that is being done by several code academy students in <Academia de Código_ >                                                               |
