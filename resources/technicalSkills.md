@@ -12,7 +12,7 @@
 
 | Technology | Level | Time     | Version |
 |------------|-------|----------|---------|
-| Java       | 1     | 7 months | 8+      |
+| Java       | 1     | 8 months | 8+      |
 | Spring     | 1     | 6 months |         |
 | Spring MVC | 1     | 6 months |         |
 | Hibernate  | 1     | 6 months |         |
@@ -20,7 +20,7 @@
 | Junit      | 1     | 6 months |         |
 | REST API   | 1     | 6 months |         |
 | Tomcat     | 1     | 6 months |         |
-| Node.js    | 1     | 5 months |         |
+| Node.js    | 1     | 6 months |         |
 
 
 
@@ -28,20 +28,20 @@
 
 | Technology | Level | Time     | Version |
 |------------|-------|----------|---------|
-| JavaScript | 1     | 5 months | ES5/6   |
-| HTML       | 1     | 5 months | 5       |
-| CSS        | 1     | 5 months | 3       |
-| React      | 1     | 2 months |         |
-| JQuery     | 1     | 5 months |         |
+| JavaScript | 1     | 6 months | ES5/6   |
+| HTML       | 1     | 6 months | 5       |
+| CSS        | 1     | 6 months | 3       |
+| React      | 1     | 3 months |         |
+| JQuery     | 1     | 6 months |         |
 
 
 #### Database
 
 | Technology | Level | Time     | Version |
 |------------|-------|----------|---------|
-| MYSQL      | 1     | 6 months |         |
+| MYSQL      | 1     | 7 months |         |
 | PostgreSQL | 1     | 2 months |         |
-| Firebase   | 1     | learning |         |
+| Firebase   | 1     | 1 month  |         |
 
 
 
@@ -49,10 +49,10 @@
 
 | Technology | Level | Time     | Version |
 |------------|-------|----------|---------|
-| VIM        | 1     | 7 months |         |
-| IntelliJ   | 1     | 7 months |         |
-| VSCode     | 1     | 5 months |         |
-| Git&GitLab | 1     | 7 months |         |
+| VIM        | 1     | 8 months |         |
+| IntelliJ   | 1     | 8 months |         |
+| VSCode     | 1     | 6 months |         |
+| Git&GitLab | 1     | 8 months |         |
 | Windows    | 2/3   | 10 years |         |
 | MAC OS     | 1     | 7 months |         |
 
@@ -63,7 +63,7 @@
 
 | Refood App  | |
 |---------------------------|-----------------------------------------------------|
-| Date |   July 2020                                                              |
+| Date |   July 2020  - present                                                            |
 | Description | Application to help Refood Lisbon Portugal to manage meals that are delivered daily. Project made in Reactjs that is being done by several code academy students in <Academia de Código_ >                                                               |
 | Tecnologies | JavaScript, React.js, React Router, HTML, CSS, Firebase                            |
 
