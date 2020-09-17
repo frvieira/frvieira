@@ -4,7 +4,7 @@
 </p>
 
 ### 🧐 About
-- 🔭 I’m currently working as a Freelancer;
+- 🔭 I’m currently developing a pro bono project for [Refood Sao Sebastiao](https://www.facebook.com/refoodsaosebastiao/ "Refood Sao Sebastiao");
 - 🌱 I’m currently learning JavaScript and Reactjs 🤪;
 - ⚡ Doing projects in JavaScript and Reactjs;
 - 🤔 I’m looking for help find a job;
