@@ -13,6 +13,8 @@
 - 😄 You can download my CV -> [here](https://github.com/frvieira/frvieira/blob/master/resources/FRANCISCO_VIEIRA_eng.pdf "here").
 - #### 📄 Check my Tech Stack details and Projects -> [here](https://github.com/frvieira/frvieira/blob/master/resources/technicalSkills.md "here")
 
+
+
 ### 📚 My Tech Stack known or learning
 
 #### Backend
