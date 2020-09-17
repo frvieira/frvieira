@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">  Technology Stack Details ⚒</h1>
+  <h1 align="center">  Projects & Technology Stack Details ⚒</h1>
 </p>
 
 ### 📌 Projects
