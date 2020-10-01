@@ -1,15 +1,14 @@
 <p align="center">
   <h1 align="center">  Hi there! 👋</h1>
-  <h2 align="center">  My name is Francisco Vieira and I'm a Junior FullStack Developer looking for a new project</h2> 
+  <h2 align="center">  My name is Francisco Vieira and I'm a Fullstack Developer looking for a new project</h2> 
 </p>
 
 ### 🧐 About
 - 🔭 I’m currently developing a pro bono project for [Refood Sao Sebastiao](https://www.facebook.com/refoodsaosebastiao/ "Refood Sao Sebastiao");
-- 🌱 I’m currently learning JavaScript and Reactjs 🤪;
-- ⚡ Doing projects in JavaScript and Reactjs;
-- 🤔 I’m looking for help find a job;
+- ⚡ Doing projects in JavaScript and Reactjs at the moment, have experience in Java projects;
+- 🤔 I’m available to start working on a IT company;
 - 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fvieiradev@gmail.com)](mailto:fvieiradev@gmail.com) or Linkedin [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frfvieira)](https://www.linkedin.com/in/frfvieira)
-- ⚡ Fun fact about me: I do rock climbing 🧗🏻;
+- ⚡ Fun fact about me: I enjoy rock climbing 🧗🏻;
 - 😄 You can download my CV -> [here](https://github.com/frvieira/frvieira/blob/master/resources/Vieira_Francisco_eng.pdf "here").
 - 📄 Check my Tech Stack details and Projects -> [here](https://github.com/frvieira/frvieira/blob/master/resources/technicalSkills.md "here")
 
