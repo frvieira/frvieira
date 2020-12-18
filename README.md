@@ -1,12 +1,11 @@
 <p align="center">
   <h1 align="center">  Hi there! 👋</h1>
-  <h2 align="center">  My name is Francisco Vieira and I'm a Fullstack Developer looking for a new project</h2> 
+  <h2 align="center">  My name is Francisco Vieira and BI Analyst and Shaepoint developer @ Pierre Fabre</h2> 
 </p>
 
 ### 🧐 About
-- 🔭 I’m currently developing a pro bono project for [Refood Sao Sebastiao](https://www.facebook.com/refoodsaosebastiao/ "Refood Sao Sebastiao");
-- ⚡ Doing projects in JavaScript and Reactjs at the moment, have experience in Java projects;
-- 🤔 I’m available to start working on a IT company;
+- 🔭 I’m currently developing on my free time a pro bono project for [Refood Sao Sebastiao](https://www.facebook.com/refoodsaosebastiao/ "Refood Sao Sebastiao");
+- ⚡ Doing projects in Sharepoint and Tableau;
 - 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fvieiradev@gmail.com)](mailto:fvieiradev@gmail.com) or Linkedin [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frfvieira)](https://www.linkedin.com/in/frfvieira)
 - ⚡ Fun fact about me: I enjoy rock climbing 🧗🏻;
 - 😄 You can download my CV -> [here](https://github.com/frvieira/frvieira/blob/master/resources/Vieira_Francisco_eng.pdf "here").
@@ -19,6 +18,7 @@
 <p align="left">
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/java-logo.svg" alt="java" width="60" height="60"/>
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/nodejs-logo.svg" alt="nodejs" width="60" height="60"/>
+<img src="https://github.com/frvieira/frvieira/blob/master/icons/c#_logo.svg" alt="nodejs" width="60" height="60"/>
 </p>
 
 #### Frontend
@@ -27,6 +27,12 @@
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/css3-logo.svg" alt="css3" width="60" height="60"/>
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/javascript-logo.svg" alt="javascript" width="60" height="60"/>
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/react-logo.svg" alt="react" width="60" height="60"/>
+<img src="https://github.com/frvieira/frvieira/blob/master/icons/microsoft-sharepoint_logo.svg" alt="nodejs" width="60" height="60"/>
+</p>
+
+#### BI
+<p align="left">
+<img src="https://github.com/frvieira/frvieira/blob/master/icons/tableau_logo.svg" alt="java" width="60" height="60"/>
 </p>
 
 #### Database

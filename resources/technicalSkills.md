@@ -52,7 +52,7 @@
 
 | Technology | Level | Time     | Version |
 |------------|-------|----------|---------|
-| Java       | 1     | 9 months | 8+      |
+| Java       | 1     | 1 year | 8+      |
 | Spring     | 1     | 9 months |         |
 | Spring MVC | 1     | 9 months |         |
 | Hibernate  | 1     | 9 months |         |
@@ -68,11 +68,11 @@
 
 | Technology | Level | Time     | Version |
 |------------|-------|----------|---------|
-| JavaScript | 1     | 7 months | ES5/6   |
-| HTML       | 1     | 7 months | 5       |
-| CSS        | 1     | 7 months | 3       |
-| React      | 1     | 7 months |         |
-| JQuery     | 1     | 7 months |         |
+| JavaScript | 2     | 10 months | ES5/6   |
+| HTML       | 2     | 10 months | 5       |
+| CSS        | 2     | 10 months | 3       |
+| React      | 1     | 10 months |         |
+| JQuery     | 1     | 10 months |         |
 
 
 #### Database
@@ -81,7 +81,7 @@
 |------------|-------|----------|---------|
 | MYSQL      | 1     | 8 months |         |
 | PostgreSQL | 1     | 3 months |         |
-| Firebase   | 1     | 2 month  |         |
+| Firebase   | 1     | 5 month  |         |
 
 
 
@@ -89,11 +89,11 @@
 
 | Technology | Level | Time     | Version |
 |------------|-------|----------|---------|
-| VIM        | 1     | 9 months |         |
-| IntelliJ   | 1     | 9 months |         |
-| VSCode     | 1     | 7 months |         |
-| Git&GitLab | 1     | 9 months |         |
-| Windows    | 3   | 10 years |         |
+| VIM        | 2     | 1 year |         |
+| IntelliJ   | 1     | 1 year |         |
+| VSCode     | 2     | 10 months |         |
+| Git&GitLab | 1     | 1 year |         |
+| Windows    | 3     | 10 years |         |
 | MAC OS     | 1     | 8 months |         |
 
 ---
