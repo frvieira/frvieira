@@ -8,7 +8,6 @@
 - ⚡ Doing projects in Sharepoint and Tableau;
 - 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fvieiradev@gmail.com)](mailto:fvieiradev@gmail.com) or Linkedin [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frfvieira)](https://www.linkedin.com/in/frfvieira)
 - ⚡ Fun fact about me: I enjoy rock climbing 🧗🏻;
-- 😄 You can download my CV -> [here](https://github.com/frvieira/frvieira/blob/master/resources/Vieira_Francisco.pdf "here").
 - 📄 Check my Tech Stack details and Projects -> [here](https://github.com/frvieira/frvieira/blob/master/resources/technicalSkills.md "here")
 
 
