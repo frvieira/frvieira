@@ -52,7 +52,7 @@
 
 | Technology | Level | Time     | Version |
 |------------|-------|----------|---------|
-| Java       | 1     | 1 year | 8+      |
+| Java       | 2     | 1 year   | 8+      |
 | Spring     | 1     | 9 months |         |
 | Spring MVC | 1     | 9 months |         |
 | Hibernate  | 1     | 9 months |         |
@@ -60,17 +60,16 @@
 | Junit      | 1     | 9 months |         |
 | REST API   | 1     | 9 months |         |
 | Tomcat     | 1     | 9 months |         |
-| Node.js    | 1     | 9 months |         |
-
+| Python     | 2     | 6 months |         |
 
 
 #### Frontend
 
-| Technology | Level | Time     | Version |
-|------------|-------|----------|---------|
-| JavaScript | 2     | 10 months | ES5/6   |
-| HTML       | 2     | 10 months | 5       |
-| CSS        | 2     | 10 months | 3       |
+| Technology | Level | Time      | Version |
+|------------|-------|-----------|---------|
+| JavaScript | 2     | 1 year    | ES5/6   |
+| HTML       | 2     | 1 year    | 5       |
+| CSS        | 2     | 1 year    | 3       |
 | React      | 1     | 10 months |         |
 | JQuery     | 1     | 10 months |         |
 
@@ -89,10 +88,13 @@
 
 | Technology | Level | Time     | Version |
 |------------|-------|----------|---------|
-| VIM        | 2     | 1 year |         |
-| IntelliJ   | 1     | 1 year |         |
-| VSCode     | 2     | 10 months |         |
-| Git&GitLab | 1     | 1 year |         |
+| VIM        | 2     | 1 year |           |
+| IntelliJ   | 1     | 1 year |           |
+| VSCode     | 2     | 1 year |           |
+| Git&GitLab | 2     | 1 year |           |
+| SharePoint | 2     | 9 months |         |
+| Tableau    | 2     | 9 months | 2021    |
+| Tableau Server | 2     | 9 months | 2021    |
 | Windows    | 3     | 10 years |         |
 | MAC OS     | 1     | 8 months |         |
 

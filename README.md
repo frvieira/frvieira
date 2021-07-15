@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">  Hi there! 👋</h1>
-  <h2 align="center">  My name is Francisco Vieira and BI Analyst and Shaepoint developer @ Pierre Fabre</h2> 
+  <h2 align="center">  My name is Francisco Vieira and I am a Data Analyst and ShaerPoint developer @ Pierre Fabre</h2> 
 </p>
 
 ### 🧐 About
