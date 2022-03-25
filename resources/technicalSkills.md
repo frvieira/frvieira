@@ -4,6 +4,24 @@
 
 ### 📌 Projects
 
+#### PIERRE FABRE - CLIENT PROJECTS
+| SharePoint Development   | |
+|---------------------------|-----------------------------------------------------|
+| Date |   October 2020  - present                                                            |
+| Description | The mission was to develop a team site where the client could upload and update the resources. Has a starting point this was suposed to a an internal team site, but has the project grew, the site and subsites created were transformed into a central hub for storage of information, procedures and BI reports. Using Tableau the reports were created using a data mart from an SQL server were the data an IT Ticketing Software were served to.                                                                |
+| Tecnologies | SharePoint, JavaScript, JSON, SQL, HTML, CSS, Power Automate & MS office tools                            |
+
+| Ticketing System Administration - ISM | |
+|---------------------------|-----------------------------------------------------|
+| Date |   January 2021  - present                                                            |
+| Description |Improving the platform structure and team assignments.
+| Tecnologies | SQL                          |
+
+| SharePoint Development  - BI  | |
+|---------------------------|-----------------------------------------------------|
+| Date |   January 2022  - present                                                            |
+| Description |The mission was to develop a team site where the client could upload and update the resources. Creation and administration of SharePoint, sites and subsites. SQL Queries to collect the data and update the files dynamically. Data is collected from Dynamics AX (Microsoft).                                                                |
+| Tecnologies | SharePoint, JavaScript, JSON, SQL, HTML, CSS, Power Automate & MS office tools                            |
 
 #### REFOOD APP
 
@@ -60,7 +78,7 @@
 | Junit      | 1     | 9 months |         |
 | REST API   | 1     | 9 months |         |
 | Tomcat     | 1     | 9 months |         |
-| Python     | 2     | 6 months |         |
+| Python     | 2     | 1 year |         |
 
 
 #### Frontend
@@ -78,6 +96,7 @@
 
 | Technology | Level | Time     | Version |
 |------------|-------|----------|---------|
+| SQL   | 2    | 1 year  |         |
 | MYSQL      | 1     | 8 months |         |
 | PostgreSQL | 1     | 3 months |         |
 | Firebase   | 1     | 5 month  |         |
@@ -88,13 +107,13 @@
 
 | Technology | Level | Time     | Version |
 |------------|-------|----------|---------|
-| VIM        | 2     | 1 year |           |
+| VIM        | 2     | 2 years |           |
 | IntelliJ   | 1     | 1 year |           |
-| VSCode     | 2     | 1 year |           |
-| Git&GitLab | 2     | 1 year |           |
-| SharePoint | 2     | 9 months |         |
-| Tableau    | 2     | 9 months | 2021    |
-| Tableau Server | 2     | 9 months | 2021    |
+| VSCode     | 2     | 2 years |           |
+| Git&GitLab | 2     | 2 years |           |
+| SharePoint | 2     | 2 years |         |
+| Tableau    | 2     | 2 years | 2021    |
+| Tableau Server | 2     | 2 years | 2021    |
 | Windows    | 3     | 10 years |         |
 | MAC OS     | 1     | 8 months |         |
 

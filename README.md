@@ -1,13 +1,13 @@
 <p align="center">
   <h1 align="center">  Hi there! 👋</h1>
-  <h2 align="center">  My name is Francisco Vieira and I am a Data Analyst and SharePoint developer @ Pierre Fabre</h2> 
+  <h2 align="center">  My name is Francisco Vieira and I am a Data Analyst and SharePoint developer @INETUM</h2> 
 </p>
 
 ### 🧐 About
-- 🔭 I’m currently developing on my free time a pro bono project for [Refood Sao Sebastiao](https://www.facebook.com/refoodsaosebastiao/ "Refood Sao Sebastiao");
+- 🔭 Creating solutions on costumer at a time;
 - ⚡ Doing projects in Sharepoint and Tableau;
 - 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fvieiradev@gmail.com)](mailto:fvieiradev@gmail.com) or Linkedin [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frfvieira)](https://www.linkedin.com/in/frfvieira)
-- ⚡ Fun fact about me: I enjoy rock climbing 🧗🏻;
+- ⚡ Fun fact about me: Great team player with focus on the solution 🧐;
 - 📄 Check my Tech Stack details and Projects -> [here](https://github.com/frvieira/frvieira/blob/master/resources/technicalSkills.md "here")
 
 
@@ -18,6 +18,7 @@
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/java-logo.svg" alt="java" width="60" height="60"/>
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/nodejs-logo.svg" alt="nodejs" width="60" height="60"/>
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/csharp_logo.svg" alt="nodejs" width="60" height="60"/>
+<img src="https://github.com/frvieira/frvieira/blob/master/icons/~python_logo.svg" alt="nodejs" width="60" height="60"/>
 </p>
 
 #### Frontend
