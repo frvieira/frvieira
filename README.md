@@ -17,8 +17,8 @@
 <p align="left">
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/java-logo.svg" alt="java" width="60" height="60"/>
 <img src="https://github.com/frvieira/frvieira/blob/master/icons/nodejs-logo.svg" alt="nodejs" width="60" height="60"/>
-<img src="https://github.com/frvieira/frvieira/blob/master/icons/csharp_logo.svg" alt="nodejs" width="60" height="60"/>
-<img src="https://github.com/frvieira/frvieira/blob/master/icons/~python_logo.svg" alt="nodejs" width="60" height="60"/>
+<img src="https://github.com/frvieira/frvieira/blob/master/icons/csharp_logo.svg" alt="c#" width="60" height="60"/>
+<img src="https://github.com/frvieira/frvieira/blob/master/icons/python_logo.svg" alt="python" width="60" height="60"/>
 </p>
 
 #### Frontend
