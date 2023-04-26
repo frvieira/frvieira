@@ -5,10 +5,17 @@
 ### 📌 Projects
 
 #### PIERRE FABRE - CLIENT PROJECTS
-| SharePoint Development   | |
+
+| SRRS Development - BI  | |
 |---------------------------|-----------------------------------------------------|
-| Date |   October 2020  - present                                                            |
-| Description | The mission was to develop a team site where the client could upload and update the resources. Has a starting point this was suposed to a an internal team site, but has the project grew, the site and subsites created were transformed into a central hub for storage of information, procedures and BI reports. Using Tableau the reports were created using a data mart from an SQL server were the data an IT Ticketing Software were served to.                                                                |
+| Date |   November 2022  - present                                                            |
+| Description | SSRS Reports development. Development of new solutions for End Users to consult data and maintain those reports. Create data driven subscriptions and simple subscriptions  |
+| Tecnologies | SQL, SQL Server Management                            |
+
+| SharePoint Development  - BI  | |
+|---------------------------|-----------------------------------------------------|
+| Date |   January 2022  - present                                                            |
+| Description | Creation and administration of SharePoint, sites and subsites. SQL Queries to collect the data and update the files dynamically. Data is collected from Dynamics AX (Microsoft).                                                                |
 | Tecnologies | SharePoint, JavaScript, JSON, SQL, HTML, CSS, Power Automate & MS office tools                            |
 
 | Ticketing System Administration - ISM | |
@@ -17,11 +24,19 @@
 | Description |Improving the platform structure and team assignments.
 | Tecnologies | SQL                          |
 
-| SharePoint Development  - BI  | |
+| Tableau Development   | |
 |---------------------------|-----------------------------------------------------|
-| Date |   January 2022  - present                                                            |
-| Description |The mission was to develop a team site where the client could upload and update the resources. Creation and administration of SharePoint, sites and subsites. SQL Queries to collect the data and update the files dynamically. Data is collected from Dynamics AX (Microsoft).                                                                |
+| Date |   January 2021  - present                                                            |
+| Description |   Development of Tableau views and publish those. Creation of Data models.                                                               |
+| Tecnologies | Tableau 2021.4, SQL                            |
+
+
+| SharePoint Development   | |
+|---------------------------|-----------------------------------------------------|
+| Date |   October 2020  - present                                                            |
+| Description | The mission was to develop a team site where the client could upload and update the resources. Has a starting point this was suposed to a an internal team site, but has the project grew, the site and subsites created were transformed into a central hub for storage of information, procedures and BI reports. Using Tableau the reports were created using a data mart from an SQL server were the data an IT Ticketing Software were served to.                                                                |
 | Tecnologies | SharePoint, JavaScript, JSON, SQL, HTML, CSS, Power Automate & MS office tools                            |
+
 
 #### REFOOD APP
 
@@ -86,8 +101,8 @@
 | Technology | Level | Time      | Version |
 |------------|-------|-----------|---------|
 | JavaScript | 2     | 1 year    | ES5/6   |
-| HTML       | 2     | 1 year    | 5       |
-| CSS        | 2     | 1 year    | 3       |
+| HTML       | 3     | 3 year    | 5       |
+| CSS        | 3     | 3 year    | 3       |
 | React      | 1     | 10 months |         |
 | JQuery     | 1     | 10 months |         |
 
@@ -96,10 +111,10 @@
 
 | Technology | Level | Time     | Version |
 |------------|-------|----------|---------|
-| SQL   | 2    | 1 year  |         |
+| SQL        | 2     | 2 year   |         |
 | MYSQL      | 1     | 8 months |         |
 | PostgreSQL | 1     | 3 months |         |
-| Firebase   | 1     | 5 month  |         |
+| Firebase   | 1     | 5 months  |         |
 
 
 
@@ -109,11 +124,11 @@
 |------------|-------|----------|---------|
 | VIM        | 2     | 2 years |           |
 | IntelliJ   | 1     | 1 year |           |
-| VSCode     | 2     | 2 years |           |
+| VSCode     | 3     | 3 years |           |
 | Git&GitLab | 2     | 2 years |           |
-| SharePoint | 2     | 2 years |         |
-| Tableau    | 2     | 2 years | 2021    |
-| Tableau Server | 2     | 2 years | 2021    |
+| SharePoint | 3     | 3 years |         |
+| Tableau    | 3     | 3 years | 2021    |
+| Tableau Server | 3     | 3 years | 2021    |
 | Windows    | 3     | 10 years |         |
 | MAC OS     | 1     | 8 months |         |
 
